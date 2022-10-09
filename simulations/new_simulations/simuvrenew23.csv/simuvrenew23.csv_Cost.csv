@@ -1,0 +1,12 @@
+,0
+"RangeIndex(start=0, stop=1, step=1)","   COST (billion euros)  Cost per MWh produced (euros/MWh)
+0             28.035915                           0.000041"
+offshore,3.8279907680000003
+onshore,13.465177235999999
+pv,6.025613996078267
+river,0.111375
+lake,0.146225625
+biogas,0.04263760096864
+phs,0.1173250127422762
+battery,2.6490029957250445
+methanation,1.650566741741183
